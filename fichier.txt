@@ -3,10 +3,10 @@ coucou3
 
 test 2
 
-<<<<<<< HEAD
+
 Modif local2
-=======
+
 testgit commit
 
 Modif local1
->>>>>>> 9858c2743d5c49f0bd3e2c7396adbadc13588cd1
+
