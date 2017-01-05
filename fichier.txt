@@ -6,8 +6,7 @@ test 2
 
 Modif local2
 Je rejoute des choses en local2
-
-testgit commit
+fin des choses à rajouter
 
 Modif local1
 
