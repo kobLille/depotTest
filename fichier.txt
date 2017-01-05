@@ -9,5 +9,5 @@ Je rejoute des choses en local2
 fin des choses à rajouter
 
 Modif local1
-je rejoute des chose en local1
-
+je rejoute des choses en local1
+je rajoute une deuxième chose
