@@ -7,6 +7,7 @@ test 2
 Modif local2
 Je rejoute des choses en local2
 fin des choses à rajouter
+Modif local 2
 
 Modif local1
 je rejoute des choses en local1
