@@ -12,3 +12,6 @@ Modif local 2
 Modif local1
 je rejoute des choses en local1
 je rajoute une deuxième chose
+
+Je suis en train de faire des testes de PCfixe
+
